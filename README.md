@@ -43,6 +43,12 @@ I love solving real-world problems with **scalable and efficient solutions** and
 
 ## 🌟 Featured Projects
 
+🚗 **Cars Everything**  
+*A full-stack platform for car buying and selling with real-time listings and user reviews.*  
+**Tech Stack:** Next.js, Firebase, Styled Components, Node.js, Stripe API  
+🔗 **[Live Demo](https://everythingcar.vercel.app/)** | 📂 **[GitHub Repo](https://github.com/manharsoin/EverythingCar)**
+
+
 ### 🏡 **Real Estate Platform**
 📌 A full-stack platform for **apartment subleasing** with features like **geolocation, Stripe payments, live chat, and secure encryption**.  
 🔗 **Tech Stack:** `React` `Node.js` `Supabase` `Stripe API`  
