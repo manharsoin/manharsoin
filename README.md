@@ -27,6 +27,7 @@ I love solving real-world problems with **scalable and efficient solutions** and
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### **Frameworks & Tools**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -50,8 +51,9 @@ I love solving real-world problems with **scalable and efficient solutions** and
 **Tech Stack:** Next.js, Firebase, Styled Components, Node.js, Stripe API  
 🔗 **[Live Demo](https://everythingcar.vercel.app/)** | 📂 **[GitHub Repo](https://github.com/manharsoin/EverythingCar)**
 
+---
 
-### 🏡 **Subspace – Real Estate Platform**
+🏡 **Subspace – Real Estate Platform**  
 📌 A full-stack platform for **apartment subleasing** with features like **geolocation, Stripe payments, live chat, and secure encryption**.  
 🔗 **Live Site:** [Sub-space.me](https://Sub-space.me)  
 🔗 **Tech Stack:** `React` `Node.js` `Supabase` `Stripe API`  
@@ -59,14 +61,40 @@ I love solving real-world problems with **scalable and efficient solutions** and
 
 ---
 
-### 🌱 **Agricultural Requirements Tracker**
+🥗 **Penn State Meal Plan Optimizer – Mealer**  
+📌 A web application that helps **Penn State students** analyze and optimize their **campus meal plan spending** through automated data collection, real-time analytics, and personalized recommendations.  
+🔗 **Live Site:** *Coming Soon* | 📂 **[GitHub Repo](https://github.com/mantavya0807/Mealer)**
+
+🧩 **Features:**  
+- 🔄 **Automated Data Collection**: Securely fetches transaction data from Penn State's dining portal  
+- 📊 **Spending Analytics**: Real-time visualization of spending patterns and trends  
+- ⚙️ **Meal Plan Optimization**: Personalized recommendations for maximizing meal plan value  
+- 👥 **Multi-User Comparison**: Compare spending patterns with other users  
+- 💸 **Discount Analysis**: Track savings and identify opportunities for better value  
+
+🛠️ **Tech Stack:**  
+**Frontend:**  
+- `React` with `TypeScript`  
+- `Tailwind CSS`  
+- `Recharts` for visualizations  
+- `Firebase Authentication`  
+
+**Backend:**  
+- `Firebase Cloud Functions`  
+- `Firestore Database`  
+- `Node.js` with `TypeScript`  
+- `Puppeteer` for automated data collection  
+
+---
+
+🌱 **Agricultural Requirements Tracker**  
 📌 A **crop recommendation system** that analyzes **location, soil type, and budget** to provide the best **crop suggestions**.  
 🔗 **Tech Stack:** `React` `Node.js` `Express` `MongoDB`  
 📂 **Repo:** [GitHub Link](https://github.com/mantavya0807/demo)
 
 ---
 
-### 📅 **Course Scheduler**
+📅 **Course Scheduler**  
 📌 A **MERN-based scheduling tool** that helps students generate **optimized course schedules** based on **majors, minors, and prerequisites**.  
 🔗 **Tech Stack:** `MERN Stack` `PostgreSQL` `Prisma ORM`  
 📂 **Repo:** [GitHub Link](https://github.com/mantavya0807/CourseCrafter)
