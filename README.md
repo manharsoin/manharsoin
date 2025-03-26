@@ -37,6 +37,8 @@ I love solving real-world problems with **scalable and efficient solutions** and
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
@@ -49,8 +51,9 @@ I love solving real-world problems with **scalable and efficient solutions** and
 🔗 **[Live Demo](https://everythingcar.vercel.app/)** | 📂 **[GitHub Repo](https://github.com/manharsoin/EverythingCar)**
 
 
-### 🏡 **Real Estate Platform**
+### 🏡 **Subspace – Real Estate Platform**
 📌 A full-stack platform for **apartment subleasing** with features like **geolocation, Stripe payments, live chat, and secure encryption**.  
+🔗 **Live Site:** [Sub-space.me](https://Sub-space.me)  
 🔗 **Tech Stack:** `React` `Node.js` `Supabase` `Stripe API`  
 📂 **Repo:** [GitHub Link](https://github.com/mantavya0807/homeharmony-platform)
 
@@ -101,4 +104,4 @@ I love solving real-world problems with **scalable and efficient solutions** and
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!** ⭐  
+⭐ **If you like my work, consider giving a star to my repositories!** ⭐
