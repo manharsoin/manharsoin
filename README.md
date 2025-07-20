@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Manhar Soin!
 
-🚀 **Computer Science & Computational Mathematics Student** at **Penn State University**  
-📍 University Park, PA, USA  
-📧 **Contact**: [mvs7148@psu.edu](mailto:mvs7148@psu.edu)  
+🚀 **Computer Science & Computational Mathematics Student** at **Penn State University** 📍 University Park, PA, USA  
+📧 **Contact**: [msoin0208@gmail.com](mailto:msoin0208@gmail.com)  
 🔗 **LinkedIn**: [manhar-soin](https://www.linkedin.com/in/manhar-soin/)  
 
 ---
@@ -11,8 +10,7 @@
 I am a passionate **software developer** with expertise in **full-stack development, cloud computing, and data-driven applications**.  
 I love solving real-world problems with **scalable and efficient solutions** and have experience in **backend services, UI/UX design, and database optimization**.  
 
-🛠️ **Currently working on:**  
-- Enhancing **full-stack applications** using **React, Node.js, Express, and Supabase**.  
+🛠️ **Currently working on:** - Enhancing **full-stack applications** using **React, Node.js, Express, and Supabase**.  
 - Exploring **Cloud Computing & AI-powered solutions**.  
 - Building **scalable and efficient web applications**.  
 
@@ -46,58 +44,56 @@ I love solving real-world problems with **scalable and efficient solutions** and
 
 ## 🌟 Featured Projects
 
-🚗 **Cars Everything**  
-*A full-stack platform for car buying and selling with real-time listings and user reviews.*  
-**Tech Stack:** Next.js, Firebase, Styled Components, Node.js, Stripe API  
+🚗 **EverythingCar** *A full-stack platform for car buying and selling with real-time listings and user reviews.* **Tech Stack:** Next.js, Firebase, Styled Components, Node.js, Stripe API  
 🔗 **[Live Demo](https://everythingcar.vercel.app/)** | 📂 **[GitHub Repo](https://github.com/manharsoin/EverythingCar)**
 
 ---
 
-🏡 **Subspace – Real Estate Platform**  
-📌 A full-stack platform for **apartment subleasing** with features like **geolocation, Stripe payments, live chat, and secure encryption**.  
+🏡 **Subspace – Real Estate Platform** 📌 A full-stack platform for **apartment subleasing** with features like **geolocation, Stripe payments, live chat, and secure encryption**.  
 🔗 **Live Site:** [Sub-space.me](https://Sub-space.me)  
 🔗 **Tech Stack:** `React` `Node.js` `Supabase` `Stripe API`  
 📂 **Repo:** [GitHub Link](https://github.com/mantavya0807/homeharmony-platform)
 
 ---
 
-🥗 **Penn State Meal Plan Optimizer – Mealer**  
-📌 A web application that helps **Penn State students** analyze and optimize their **campus meal plan spending** through automated data collection, real-time analytics, and personalized recommendations.  
+🥗 **Penn State Meal Plan Optimizer – Mealer** 📌 A web application that helps **Penn State students** analyze and optimize their **campus meal plan spending** through automated data collection, real-time analytics, and personalized recommendations.  
 🔗 **Live Site:** *Coming Soon* | 📂 **[GitHub Repo](https://github.com/mantavya0807/Mealer)**
 
-🧩 **Features:**  
-- 🔄 **Automated Data Collection**: Securely fetches transaction data from Penn State's dining portal  
+🧩 **Features:** - 🔄 **Automated Data Collection**: Securely fetches transaction data from Penn State's dining portal  
 - 📊 **Spending Analytics**: Real-time visualization of spending patterns and trends  
 - ⚙️ **Meal Plan Optimization**: Personalized recommendations for maximizing meal plan value  
 - 👥 **Multi-User Comparison**: Compare spending patterns with other users  
 - 💸 **Discount Analysis**: Track savings and identify opportunities for better value  
 
-🛠️ **Tech Stack:**  
-**Frontend:**  
-- `React` with `TypeScript`  
+🛠️ **Tech Stack:** **Frontend:** - `React` with `TypeScript`  
 - `Tailwind CSS`  
 - `Recharts` for visualizations  
 - `Firebase Authentication`  
 
-**Backend:**  
-- `Firebase Cloud Functions`  
+**Backend:** - `Firebase Cloud Functions`  
 - `Firestore Database`  
 - `Node.js` with `TypeScript`  
 - `Puppeteer` for automated data collection  
 
 ---
 
-🌱 **Agricultural Requirements Tracker**  
-📌 A **crop recommendation system** that analyzes **location, soil type, and budget** to provide the best **crop suggestions**.  
+**🌱 Agricultural Requirements Tracker** 📌 A **crop recommendation system** that analyzes **location, soil type, and budget** to provide the best **crop suggestions**.  
 🔗 **Tech Stack:** `React` `Node.js` `Express` `MongoDB`  
 📂 **Repo:** [GitHub Link](https://github.com/mantavya0807/demo)
 
 ---
 
-📅 **Course Scheduler**  
-📌 A **MERN-based scheduling tool** that helps students generate **optimized course schedules** based on **majors, minors, and prerequisites**.  
+**📅 Course Scheduler** 📌 A **MERN-based scheduling tool** that helps students generate **optimized course schedules** based on **majors, minors, and prerequisites**.  
 🔗 **Tech Stack:** `MERN Stack` `PostgreSQL` `Prisma ORM`  
 📂 **Repo:** [GitHub Link](https://github.com/mantavya0807/CourseCrafter)
+
+---
+
+**💡 EduFund** 📌 A **decentralized crowdfunding platform** built using **Ethereum smart contracts**.  
+🔗 **[Live Demo](https://edu-fund-bay.vercel.app/)** | 📂 **[GitHub Repo](https://github.com/manharsoin/edufund)** **Tech Stack:** `Blockchain` `Solidity` `MetaMask` `React`  
+**Features:** - Secure donation processing via Ethereum smart contracts.  
+- Transparent campaign management and fund distribution.  
+- User authentication and transaction signing with MetaMask integration.  
 
 ---
 
@@ -108,19 +104,24 @@ I love solving real-world problems with **scalable and efficient solutions** and
 - Integrated **Supabase** for real-time data management.
 - Optimized user requests for better scalability.
 
-### 📌 **Learning Assistant** @ **Penn State University** *(Jan 2024 - May 2024)*
+### 📌 **Tutor & Learning Assistant** @ **Penn State University** *(Jan 2024 - May 2024)*
 - Provided **weekly tutoring** to 100+ students in **Calculus II**.
 - Conducted **interactive sessions** to help students understand **mathematical concepts**.
 
-### 📌 **Research Assistant** @ **Penn State University** *(Jan 2023 - May 2023)*
+### 📌 **Research Assistant** @ **Penn State University** *(May 2025 - Present)*
+- Processed **10,000+ articles** for policy analytics and **NLP-based index development**.
+- Built checkpointed pipelines with dynamic queries for automated data processing.
+
+### 📌 **Applied Researcher - Pulsar Signal Detection** @ **Penn State University** *(Jan 2023 - May 2023)*
 - Applied **data analysis** techniques for **pulsar detection** in astrophysics research.
+- Processed raw radio telescope data using Python to detect periodic pulsar signals.
 
 ---
 
 ## 📫 Connect with Me
 🌐 **Portfolio:** [Coming Soon]  
 💼 **LinkedIn:** [manhar-soin](https://www.linkedin.com/in/manhar-soin/)  
-📧 **Email:** [mvs7148@psu.edu](mailto:mvs7148@psu.edu)  
+📧 **Email:** [msoin0208@gmail.com](mailto:msoin0208@gmail.com)  
 🔗 **GitHub:** [Manhar-Soin](https://github.com/Manhar-Soin)  
 
 ---
