@@ -122,8 +122,6 @@ I love solving real-world problems with **scalable and efficient solutions** and
 🌐 **Portfolio:** [Coming Soon]  
 💼 **LinkedIn:** [manhar-soin](https://www.linkedin.com/in/manhar-soin/)  
 📧 **Email:** [msoin0208@gmail.com](mailto:msoin0208@gmail.com)  
-🔗 **GitHub:** [Manhar-Soin](https://github.com/Manhar-Soin)  
-
 ---
 
 ⭐ **If you like my work, consider giving a star to my repositories!** ⭐
