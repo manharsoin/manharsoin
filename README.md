@@ -119,7 +119,7 @@ I love solving real-world problems with **scalable and efficient solutions** and
 ---
 
 ## 📫 Connect with Me
-🌐 **Portfolio:** (https://portfolio-ebon-zeta-79.vercel.app/)  
+🌐 **Portfolio:** [portfolio](https://portfolio-ebon-zeta-79.vercel.app/)  
 💼 **LinkedIn:** [manhar-soin](https://www.linkedin.com/in/manhar-soin/)  
 📧 **Email:** [msoin0208@gmail.com](mailto:msoin0208@gmail.com)  
 ---
